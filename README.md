@@ -1,0 +1,1 @@
+# responsive-page-class-08
